@@ -3,13 +3,18 @@
         "school":"[Godavari Institute of Engineering and Technology](https://giet.ac.in/)",
         "degree":"Bachelor of Technology",
         "major":"Electronics & Communication Engineering",
-        "notes":"Beta Gamma Signma, High Honors",
         "range":"2016 - 2020"
     },
     {
         "school":"Geetam Junior College",
         "degree":"Board of Intermediate",
-        "major":"Maths Physics and Chemistry",
-        "range":"2004 - 2006"
+        "major":"Maths, Physics and Chemistry",
+        "range":"2014 - 2016"
+    },
+    {
+        "school":"Z P P High School",
+        "degree":"Secondary School Certificate",
+        "major":"Maths, Physics and Chemistry",
+        "range":"2013 - 2014"
     }
 ]
