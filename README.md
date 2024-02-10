@@ -1,4 +1,4 @@
-# sathishk.github.io
+# manikanta.github.io
 Profile Page Sample
 
 ## Setup
