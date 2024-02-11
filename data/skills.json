@@ -1,7 +1,7 @@
 [
   {
       "grouping":"Backend Technologies",
-      "skills":[ "Java","Spring Boot","RESTful APIs","Spring Data JPA","Hibernate"]
+      "skills":[ "Java","Spring Boot","RESTful APIs","Spring Data JPA","hibernate"]
   },{
       "grouping":"Frontend Technologies",
       "skills":[ "HTML5","CSS3","Bootstrap","Javascript","Jquery", "Angular"]
