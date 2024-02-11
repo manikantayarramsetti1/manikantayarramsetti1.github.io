@@ -1,7 +1,9 @@
 [
   {
       "grouping":"Backend Technologies",
-      "skills":[ "Java","Python","git","subversion","linux","bash","php","jquery","javascript"]
+      "skills":[ "Java","Python","git","subversion","linux","bash","php","jquery","javascript"],
+      "groupingd":"Backend Technologies",
+      "groupindg":"Backend Technologies"
       
   },{
       "grouping":"Frontend Technologies",
