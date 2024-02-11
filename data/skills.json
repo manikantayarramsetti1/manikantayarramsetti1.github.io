@@ -13,6 +13,8 @@
   },
   {
       "grouping":"Database",
-      "skills": ["MYSQL"]
+      "skills": [
+        { "name" : "MYSQL" }
+    ]
   }
 ]
