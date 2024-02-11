@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-Proven Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud.
+As a Full Stack Developer, i was played a key role in the end-to-end development of web applications, from front-end design to backend implementation. My expertise in both client-side and server-side technologies, coupled with my strong analytical and communication skills, will be instrumental in delivering successful projects and exceeding client expectations.
