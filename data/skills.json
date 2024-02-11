@@ -4,11 +4,11 @@
       "skills":[ "Java","Spring Boot","RESTful APIs","Spring Data JPA","Hibernate"]
   },{
       "grouping":"Frontend Technologies",
-      "skills":[ "HTML5","CSS3","Bootstrap","subversion","Javascript","Jquery", "Angular"]
+      "skills":[ "HTML5","CSS3","Bootstrap","Javascript","Jquery", "Angular"]
   },
   {
       "grouping":"Tools",
-      "skills":[ "IntelliJ Idea","Vs Code","Postman","Jira","Git"]
+      "skills":[ "Intellij","Vs Code","Postman","Jira","Git"]
   },
   {
       "grouping":"Databases",
