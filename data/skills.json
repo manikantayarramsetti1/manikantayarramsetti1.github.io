@@ -1,15 +1,15 @@
 [
   {
       "grouping":"Backend Technologies",
-      "skills": ["Java, Spring Boot, RESTful APIs, Spring Data JPA, Hibernate"]
+      "skills":[ "Java","Python","git","subversion","linux","bash","php","jquery","javascript"]
       
   },{
       "grouping":"Frontend Technologies",
-      "skills": ["JavaScript, Bootstrap, HTML, CSS, Jquery, Angular (introductory)"]
+      "skills":[ "Java","Python","git","subversion","linux","bash","php","jquery","javascript"]
   },
   {
       "grouping":"Tools",
-      "skills": ["IntelliJ Idea, Vs Code, Git, Gitlab, Postman, Jira"]
+      "skills": "IntelliJ Idea, Vs Code, Git, Gitlab, Postman, Jira"
   },
   {
       "grouping":"Database",
