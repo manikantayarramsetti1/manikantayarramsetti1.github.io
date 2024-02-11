@@ -1,17 +1,37 @@
 [
   {
       "grouping":"Backend Technologies",
-      "skills":[ "Java","Python","git","subversion","linux","bash","php","jquery","javascript"],
-      "groupingd":"Backend Technologies",
-      "groupindg":"Backend Technologies"
+      "skills":[ 
+        { "name" :"Java"},
+        { "name" :"Spring Boot"},
+        { "name" :"Rest APIs"},
+        { "name" :"Spring Data JPA"},
+        { "name" :"Hibernate"},
+        { "name" :"JSP"},
+        { "name" :"Servlet"}
+    ]
       
   },{
       "grouping":"Frontend Technologies",
-      "skills":[ "Java","Python","git","subversion","linux","bash","php","jquery","javascript"]
+      "skills":[ 
+        { "name" :"HTML"},
+        { "name" :"CSS"},
+        { "name" :"JavaScript"},
+        { "name" :"Angular(Introductory)"},
+        { "name" :"Bootstrap"}
+        { "name" :"Jquery"}
+      ]
   },
   {
     "grouping": "Tools",
-    "skills": ["IntelliJ Idea", "Vs Code", "Git", "Gitlab", "Postman", "Jira"]
+    "skills": [
+        { "name" :"IntelliJ Idea"},
+        { "name" :"Vs Code"},
+        { "name" :"Git"},
+        { "name" :"JSON"},
+        { "name" :"Postman"},
+        { "name" :"Jira"}
+    ]
   },  
   {
       "grouping":"Database",
