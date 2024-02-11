@@ -25,7 +25,7 @@ sections = ["skills","experience","education","contributions"]
 trackerID = "XX-123446-01"
 
 [[params.handles]]
-link = "https://www.linkedin.com/in/manikanta445/"
+link = "https://www.linkedin.com/in/edwardwebb/"
 name = "LinkedIn"
 
 [[params.handles]]
