@@ -8,7 +8,7 @@
   },
   {
       "grouping":"Tools",
-      "skills":[ "Intellij","Vs Code","Postman","Jira","Git"]
+      "skills":[ "intellij","vscode","Postman","Jira","Git"]
   },
   {
       "grouping":"Databases",
