@@ -8,9 +8,9 @@
       "skills":[ "Java","Python","git","subversion","linux","bash","php","jquery","javascript"]
   },
   {
-      "grouping":"Tools",
-      "skills": ["IntelliJ Idea, Vs Code, Git, Gitlab, Postman, Jira"]
-  },
+    "grouping": "Tools",
+    "skills": ["IntelliJ Idea", "Vs Code", "Git", "Gitlab", "Postman", "Jira"]
+  },  
   {
       "grouping":"Database",
       "skills": [
