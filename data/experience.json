@@ -2,6 +2,7 @@
     {
         "role":"Full Stack Developer",
         "company":"Dataworkz Inc",
+        "description": "As a Full Stack Developer, i was played a key role in the end-to-end development of web applications, from front-end design to backend implementation. My expertise in both client-side and server-side technologies, coupled with my strong analytical and communication skills, will be instrumental in delivering successful projects and exceeding client expectations.",
         "summary":"Led in the development of fast-paced software teams, focusing on building the Dataworkz product.\n- With Figma designs provided by the UX expert, I utilized HTML, CSS, and Bootstrap to build the user interfaces.\n- Designed user interactions and experiences for the application using JavaScript.\n- Integrated backend APIs with the UI using JavaScript.\n- To address urgent customer needs, I developed backend REST APIs using Java, Spring Boot, REST APIs, and MySQL.",
         "range":"April 2022 - November 2023"
     }
