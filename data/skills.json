@@ -9,7 +9,7 @@
   },
   {
       "grouping":"Tools",
-      "skills": "IntelliJ Idea, Vs Code, Git, Gitlab, Postman, Jira"
+      "skills": ["IntelliJ Idea, Vs Code, Git, Gitlab, Postman, Jira"]
   },
   {
       "grouping":"Database",
