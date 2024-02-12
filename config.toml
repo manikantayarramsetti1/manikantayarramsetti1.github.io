@@ -12,7 +12,7 @@ address = "Rajahmundry, India"
 favicon = "/favicon.ico"
 firstName = "Manikanta"
 lastName = "Yarramsetti"
-phone = "1-555-555-1234"
+phone = "9666318557"
 profileImage = "https://avatars.githubusercontent.com/u/80145329?v=4"
 showSocializations = true
 showContact = false
@@ -31,18 +31,6 @@ name = "LinkedIn"
 [[params.handles]]
 link = "https://github.com/manikantayarramsetti1/"
 name = "GitHub"
-
-[[params.handles]]
-link = "https://bitbucket.org/eddiewebb/"
-name = "Bitbucket"
-
-[[params.handles]]
-link = "https://stackoverflow.com/users/story/82880"
-name = "Stack Overflow"
-
-[[params.handles]]
-link = "https://keybase.io/edwardawebb"
-name = "Keybase"
 
 [outputs]
 home = ["HTML", "JSON"]
