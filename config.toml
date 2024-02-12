@@ -18,7 +18,6 @@ showSocializations = true
 showContact = false
 sections = ["skills","experience","education","contributions"]
 
-
 [params.google]
 
 [params.google.analytics]
@@ -31,6 +30,10 @@ name = "LinkedIn"
 [[params.handles]]
 link = "https://github.com/manikantayarramsetti1/"
 name = "GitHub"
+
+[[params.handles]]
+link = "https://wa.link/zqowpu"
+name = "Whatsapp"
 
 [outputs]
 home = ["HTML", "JSON"]
