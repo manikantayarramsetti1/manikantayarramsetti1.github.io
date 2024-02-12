@@ -35,6 +35,10 @@ name = "GitHub"
 link = "https://wa.link/zqowpu"
 name = "Whatsapp"
 
+[[params.handles]]
+link = "mailto:manikantayarramsetti445@gmail.com"
+name = "Email"
+
 [outputs]
 home = ["HTML", "JSON"]
 
