@@ -14,7 +14,7 @@ firstName = "Manikanta"
 lastName = "Yarramsetti"
 phone = "1-555-555-1234"
 profileImage = "https://avatars.githubusercontent.com/u/80145329?v=4"
-showQr = true
+showSocializations = true
 showContact = false
 sections = ["skills","experience","education","contributions"]
 
@@ -25,11 +25,11 @@ sections = ["skills","experience","education","contributions"]
 trackerID = "XX-123446-01"
 
 [[params.handles]]
-link = "https://www.linkedin.com/in/edwardwebb/"
+link = "https://www.linkedin.com/in/Manikanta445/"
 name = "LinkedIn"
 
 [[params.handles]]
-link = "https://github.com/eddiewebb/"
+link = "https://github.com/manikantayarramsetti1/"
 name = "GitHub"
 
 [[params.handles]]
