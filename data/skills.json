@@ -1,17 +1,40 @@
 [
-  {
-      "grouping":"Backend Technologies",
-      "skills":[ "Java","Spring Boot","RESTful APIs","Spring Data JPA","Hibernate"]
-  },{
-      "grouping":"Frontend Technologies",
-      "skills":[ "HTML5","CSS3","Bootstrap","Javascript","Jquery", "Angular"]
-  },
-  {
-      "grouping":"Tools",
-      "skills":[ "intellij","visualstudio","Jira","Git","Postman"]
-  },
-  {
-      "grouping":"Databases",
-      "skills":[ "MySQL" ]
-  }
-]
+    {
+        "grouping": "Backend Technologies",
+        "skills": [
+            {"name": "Java", "icon": "java-icon"}, 
+            {"name": "Spring Boot", "icon": "spring-boot-icon"}, 
+            {"name": "RESTful APIs", "icon": "rest-icon"}, 
+            {"name": "Spring Data JPA", "icon": "spring-data-icon"}, 
+            {"name": "Hibernate", "icon": "hibernate-icon"}
+        ]
+    },
+    {
+        "grouping": "Frontend Technologies",
+        "skills": [
+            {"name": "HTML5", "icon": "html5-icon"},
+            {"name": "CSS3", "icon": "css3-icon"},
+            {"name": "Bootstrap", "icon": "bootstrap-icon"},
+            {"name": "Javascript", "icon": "javascript-icon"},
+            {"name": "Jquery", "icon": "jquery-icon"},
+            {"name": "Angular", "icon": "angular-icon"}
+        ]
+    },
+    {
+        "grouping": "Tools",
+        "skills": [
+            {"name": "IntelliJ", "icon": "intellij-icon"},
+            {"name": "Visual Studio", "icon": "visual-studio-icon"},
+            {"name": "Jira", "icon": "jira-icon"},
+            {"name": "Git", "icon": "git-icon"},
+            {"name": "Postman", "icon": "postman-icon"}
+        ]
+    },
+    {
+        "grouping": "Databases",
+        "skills": [
+            {"name": "MySQL", "icon": "mysql-icon"}
+        ]
+    }
+  ]
+  
