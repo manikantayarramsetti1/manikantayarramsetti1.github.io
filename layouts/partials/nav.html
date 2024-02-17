@@ -1,8 +1,8 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
   <a class="navbar-brand js-scroll-trigger" href="#page-top">
-    <span class="d-block d-lg-none">{{ .Site.Params.firstName }} {{ .Site.Params.lastName }}</span>
+    <span class="d-block d-lg-none">{{ .Params.firstName }} {{ .Params.lastName }}</span>
     <span class="d-none d-lg-block">
-      <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="{{ .Site.Params.profileImage | relURL }}" alt="">
+      <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="{{ .Params.profileImage | relURL }}" alt="">
     </span>
   </a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -13,7 +13,7 @@
       <li class="nav-item">
         <a class="nav-link js-scroll-trigger" href="{{ "#about" | relURL }}">{{ i18n "about" }}</a>
       </li>
-      {{ range .Site.Params.sections }}
+      {{ range .Params.sections }}
       <li class="nav-item">
         <a class="nav-link js-scroll-trigger" href="/#{{.}}">{{ . | i18n }}</a>
       </li>
@@ -21,7 +21,7 @@
       <li class="nav-item">
         <a class="nav-link" href="/personalProject">{{ i18n "personalProject" }}</a>
       </li>
-      {{ if .Site.Params.showContact}}
+      {{ if .Params.showContact}}
           <li class="nav-item">
             <a class="nav-link" href="/contact">{{ i18n "contact" }}</a>
           </li>
