@@ -4,7 +4,7 @@
         "skills": [
             {"name": "Java", "iconClass": "fab fa-java"}, 
             {"name": "Spring Boot", "iconClass": "spring-boot"}, 
-            {"name": "RESTful APIs", "iconClass": "fas fa-code"}, 
+            {"name": "RESTful APIs", "iconClass": "devicons devicons-terminal_badge"}, 
             {"name": "Spring Data JPA", "iconClass": "fab fa-java"}, 
             {"name": "Hibernate", "iconClass": "fab fa-java"}
         ]
