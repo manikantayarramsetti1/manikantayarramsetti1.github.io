@@ -15,7 +15,7 @@ lastName = "Yarramsetti"
 phone = "9666318557"
 profileImage = "https://avatars.githubusercontent.com/u/80145329?v=4"
 showQr = false
-showContact = true
+showContact = false
 showSocializations = true
 sections = ["skills","experience","education","contributions", "personalProject"]
 
