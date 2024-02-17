@@ -17,7 +17,7 @@ profileImage = "https://avatars.githubusercontent.com/u/80145329?v=4"
 showQr = false
 showContact = false
 showSocializations = true
-sections = ["skills","experience","education","contributions", "personalProject"]
+sections = ["skills","experience","education","contributions", "creations"]
 
 [params.google]
 
