@@ -37,7 +37,8 @@ name = "Whatsapp"
 
 [[params.handles]]
 link = "mailto:manikantayarramsetti445@gmail.com"
-name = "Gmail"
+name = "Gmail",
+profileImage = "img/TechChat.webp"
 
 [[params.handles]]
 link = "https://leetcode.com/manikanta_yarramsetti5/"
