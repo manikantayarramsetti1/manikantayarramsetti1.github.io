@@ -16,15 +16,15 @@
             {"name": "CSS3", "iconClass": "fab fa-css3-alt"},
             {"name": "Bootstrap", "iconClass": "fab fa-bootstrap"},
             {"name": "Javascript", "iconClass": "fab fa-js"},
-            {"name": "Jquery", "iconClass": "fab fa-js"},
+            {"name": "Jquery", "iconClass": "devicons devicons-jquery"},
             {"name": "Angular", "iconClass": "fab fa-angular"}
         ]
     },
     {
         "grouping": "Tools",
         "skills": [
-            {"name": "IntelliJ", "iconClass": "fab fa-intellij"},
-            {"name": "Visual Studio", "iconClass": "fab fa-microsoft"},
+            {"name": "IntelliJ", "iconClass": "devicons devicons-intellij"},
+            {"name": "Visual Studio", "iconClass": "devicons devicons-visualstudio"},
             {"name": "Jira", "iconClass": "fab fa-jira"},
             {"name": "Git", "iconClass": "fab fa-git"},
             {"name": "Postman", "iconClass": "fab fa-postman"}
