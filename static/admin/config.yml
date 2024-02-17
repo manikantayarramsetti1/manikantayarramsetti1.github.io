@@ -116,7 +116,6 @@ collections: # A list of collections the CMS should be able to edit
                 fields: 
                   - { label: 'Name', name: 'name', widget: 'string' }
                   - { label: 'Link', name: 'link', widget: 'string' }
-                  - { label: 'socialImg', name: 'socialImg', widget: 'image' }
           
               - { label: 'showSkills', name: 'showSkills', widget: 'boolean', required: false }
               - { label: 'showProjects', name: 'showProjects', widget: 'boolean', required: false }
