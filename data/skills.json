@@ -2,39 +2,38 @@
     {
         "grouping": "Backend Technologies",
         "skills": [
-            {"name": "Java", "imageURL": "/img/java.svg"}, 
-            {"name": "Spring Boot", "imageURL": "/img/spring.svg"}, 
-            {"name": "RESTful APIs", "imageURL": "/img/rest-api.svg"}, 
-            {"name": "Spring Data JPA", "imageURL": "/img/jpa.gif"}, 
-            {"name": "Hibernate", "imageURL": "/img/hibernate.svg"}
+            {"name": "Java", "iconClass": "fab fa-java"}, 
+            {"name": "Spring Boot", "iconClass": "fab fa-spring"}, 
+            {"name": "RESTful APIs", "iconClass": "fas fa-code"}, 
+            {"name": "Spring Data JPA", "iconClass": "fab fa-java"}, 
+            {"name": "Hibernate", "iconClass": "fab fa-java"}
         ]
     },
     {
         "grouping": "Frontend Technologies",
         "skills": [
-            {"name": "HTML5", "imageURL": "html5-icon"},
-            {"name": "CSS3", "imageURL": "css3-icon"},
-            {"name": "Bootstrap", "imageURL": "bootstrap-icon"},
-            {"name": "Javascript", "imageURL": "javascript-icon"},
-            {"name": "Jquery", "imageURL": "jquery-icon"},
-            {"name": "Angular", "imageURL": "angular-icon"}
+            {"name": "HTML5", "iconClass": "fab fa-html5"},
+            {"name": "CSS3", "iconClass": "fab fa-css3-alt"},
+            {"name": "Bootstrap", "iconClass": "fab fa-bootstrap"},
+            {"name": "Javascript", "iconClass": "fab fa-js"},
+            {"name": "Jquery", "iconClass": "fab fa-js"},
+            {"name": "Angular", "iconClass": "fab fa-angular"}
         ]
     },
     {
         "grouping": "Tools",
         "skills": [
-            {"name": "IntelliJ", "imageURL": "intellij-icon"},
-            {"name": "Visual Studio", "imageURL": "visualstudio-icon"},
-            {"name": "Jira", "imageURL": "jira-icon"},
-            {"name": "Git", "imageURL": "git-icon"},
-            {"name": "Postman", "imageURL": "postman-icon"}
+            {"name": "IntelliJ", "iconClass": "fab fa-intellij"},
+            {"name": "Visual Studio", "iconClass": "fab fa-microsoft"},
+            {"name": "Jira", "iconClass": "fab fa-jira"},
+            {"name": "Git", "iconClass": "fab fa-git"},
+            {"name": "Postman", "iconClass": "fab fa-postman"}
         ]
     },
     {
         "grouping": "Databases",
         "skills": [
-            {"name": "MySQL", "imageURL": "mysql-icon"}
+            {"name": "MySQL", "iconClass": "fas fa-database"}
         ]
     }
-  ]
-  
+]

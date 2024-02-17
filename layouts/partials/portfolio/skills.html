@@ -1,13 +1,13 @@
 <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="skills">
   <div class="my-auto" id="skills-content">
     <h2 class="mb-5">{{ i18n "skills" }}</h2>
-    {{ range $.Data.skills }}
+    {{ range $.Data }}
     <div class="subheading mb-3 skills-heading">{{ .grouping }}</div>
-    <ul>
+    <ul class="list-inline">
       {{ range .skills }}
       {{ if isset . "name" }}
       <li class="list-inline-item">
-        <img src="{{ .imageURL }}" alt="{{ .name }}">
+        <i class="{{ .iconClass }}"></i>
         {{ if isset . "link" }}
         <a href="{{ .link }}">{{ .name }}</a>
         {{ else }}
@@ -16,7 +16,7 @@
       </li>
       {{ else }}
       <li class="list-inline-item">
-        <img src="{{ .imageURL }}" alt="{{ . }}">
+        <i class="{{ .iconClass }}"></i>
         {{ . }}
       </li>
       {{ end }}
