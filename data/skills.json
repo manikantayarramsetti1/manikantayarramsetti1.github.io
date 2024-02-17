@@ -3,7 +3,7 @@
         "grouping": "Backend Technologies",
         "skills": [
             {"name": "Java", "iconClass": "fab fa-java"}, 
-            {"name": "Spring Boot", "iconClass": "fab fa-spring"}, 
+            {"name": "Spring Boot", "iconClass": "spring-boot"}, 
             {"name": "RESTful APIs", "iconClass": "fas fa-code"}, 
             {"name": "Spring Data JPA", "iconClass": "fab fa-java"}, 
             {"name": "Hibernate", "iconClass": "fab fa-java"}
@@ -27,7 +27,7 @@
             {"name": "Visual Studio", "iconClass": "devicons devicons-visualstudio"},
             {"name": "Jira", "iconClass": "fab fa-jira"},
             {"name": "Git", "iconClass": "devicons devicons-git"},
-            {"name": "Postman", "iconClass": "fab fa-postman"}
+            {"name": "Postman", "iconClass": "postman"}
         ]
     },
     {
