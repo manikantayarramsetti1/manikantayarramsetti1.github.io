@@ -2,11 +2,11 @@
     {
         "grouping": "Backend Technologies",
         "skills": [
-            {"name": "Java", "imageURL": "java-icon"}, 
-            {"name": "Spring Boot", "imageURL": "static/img/deploysonly.gif"}, 
-            {"name": "RESTful APIs", "imageURL": "/img/deploysonly.gif"}, 
-            {"name": "Spring Data JPA", "imageURL": "img/deploysonly.gif"}, 
-            {"name": "Hibernate", "imageURL": "hibernate-icon"}
+            {"name": "Java", "imageURL": "/img/java.svg"}, 
+            {"name": "Spring Boot", "imageURL": "/img/spring.svg"}, 
+            {"name": "RESTful APIs", "imageURL": "/img/rest-api.svg"}, 
+            {"name": "Spring Data JPA", "imageURL": "/img/jpa.gif"}, 
+            {"name": "Hibernate", "imageURL": "/img/hibernate.svg"}
         ]
     },
     {
