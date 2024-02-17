@@ -26,7 +26,7 @@
             {"name": "IntelliJ", "iconClass": "devicons devicons-intellij"},
             {"name": "Visual Studio", "iconClass": "devicons devicons-visualstudio"},
             {"name": "Jira", "iconClass": "fab fa-jira"},
-            {"name": "Git", "iconClass": "fab fa-git"},
+            {"name": "Git", "iconClass": "devicons devicons-git"},
             {"name": "Postman", "iconClass": "fab fa-postman"}
         ]
     },
